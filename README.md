@@ -1,0 +1,2 @@
+# SaleStream-Messaging-Hub
+ This project uses an Event Bus architecture as a starting point for a planned microservices architecture. It facilitates communication between microservices by sending and receiving messages through infrastructure like RabbitMQ and Azure Service Bus. The Event Bus ensures secure message delivery and manages subscriptions. Tests are conducted to validate the correct sending, receiving, and processing of messages.
