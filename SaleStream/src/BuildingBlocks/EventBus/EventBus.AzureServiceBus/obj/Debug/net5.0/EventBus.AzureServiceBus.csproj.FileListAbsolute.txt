@@ -1,0 +1,15 @@
+C:\Projeler\Asp.Net\SaleStream\src\BuildingBlocks\EventBus\EventBus.AzureServiceBus\bin\Debug\net5.0\EventBus.AzureServiceBus.deps.json
+C:\Projeler\Asp.Net\SaleStream\src\BuildingBlocks\EventBus\EventBus.AzureServiceBus\bin\Debug\net5.0\EventBus.AzureServiceBus.dll
+C:\Projeler\Asp.Net\SaleStream\src\BuildingBlocks\EventBus\EventBus.AzureServiceBus\bin\Debug\net5.0\EventBus.AzureServiceBus.pdb
+C:\Projeler\Asp.Net\SaleStream\src\BuildingBlocks\EventBus\EventBus.AzureServiceBus\bin\Debug\net5.0\EventBus.Base.dll
+C:\Projeler\Asp.Net\SaleStream\src\BuildingBlocks\EventBus\EventBus.AzureServiceBus\bin\Debug\net5.0\EventBus.Base.pdb
+C:\Projeler\Asp.Net\SaleStream\src\BuildingBlocks\EventBus\EventBus.AzureServiceBus\obj\Debug\net5.0\EventBus.AzureServiceBus.csproj.AssemblyReference.cache
+C:\Projeler\Asp.Net\SaleStream\src\BuildingBlocks\EventBus\EventBus.AzureServiceBus\obj\Debug\net5.0\EventBus.AzureServiceBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projeler\Asp.Net\SaleStream\src\BuildingBlocks\EventBus\EventBus.AzureServiceBus\obj\Debug\net5.0\EventBus.AzureServiceBus.AssemblyInfoInputs.cache
+C:\Projeler\Asp.Net\SaleStream\src\BuildingBlocks\EventBus\EventBus.AzureServiceBus\obj\Debug\net5.0\EventBus.AzureServiceBus.AssemblyInfo.cs
+C:\Projeler\Asp.Net\SaleStream\src\BuildingBlocks\EventBus\EventBus.AzureServiceBus\obj\Debug\net5.0\EventBus.AzureServiceBus.csproj.CoreCompileInputs.cache
+C:\Projeler\Asp.Net\SaleStream\src\BuildingBlocks\EventBus\EventBus.AzureServiceBus\obj\Debug\net5.0\EventBus.4B749085.Up2Date
+C:\Projeler\Asp.Net\SaleStream\src\BuildingBlocks\EventBus\EventBus.AzureServiceBus\obj\Debug\net5.0\EventBus.AzureServiceBus.dll
+C:\Projeler\Asp.Net\SaleStream\src\BuildingBlocks\EventBus\EventBus.AzureServiceBus\obj\Debug\net5.0\refint\EventBus.AzureServiceBus.dll
+C:\Projeler\Asp.Net\SaleStream\src\BuildingBlocks\EventBus\EventBus.AzureServiceBus\obj\Debug\net5.0\EventBus.AzureServiceBus.pdb
+C:\Projeler\Asp.Net\SaleStream\src\BuildingBlocks\EventBus\EventBus.AzureServiceBus\obj\Debug\net5.0\ref\EventBus.AzureServiceBus.dll

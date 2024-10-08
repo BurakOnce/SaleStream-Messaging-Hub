@@ -1,0 +1,11 @@
+C:\Projeler\Asp.Net\SaleStream\src\Services\OrderService\OrderService.Application\bin\Debug\net5.0\OrderService.Application.deps.json
+C:\Projeler\Asp.Net\SaleStream\src\Services\OrderService\OrderService.Application\bin\Debug\net5.0\OrderService.Application.dll
+C:\Projeler\Asp.Net\SaleStream\src\Services\OrderService\OrderService.Application\bin\Debug\net5.0\OrderService.Application.pdb
+C:\Projeler\Asp.Net\SaleStream\src\Services\OrderService\OrderService.Application\obj\Debug\net5.0\OrderService.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projeler\Asp.Net\SaleStream\src\Services\OrderService\OrderService.Application\obj\Debug\net5.0\OrderService.Application.AssemblyInfoInputs.cache
+C:\Projeler\Asp.Net\SaleStream\src\Services\OrderService\OrderService.Application\obj\Debug\net5.0\OrderService.Application.AssemblyInfo.cs
+C:\Projeler\Asp.Net\SaleStream\src\Services\OrderService\OrderService.Application\obj\Debug\net5.0\OrderService.Application.csproj.CoreCompileInputs.cache
+C:\Projeler\Asp.Net\SaleStream\src\Services\OrderService\OrderService.Application\obj\Debug\net5.0\OrderService.Application.dll
+C:\Projeler\Asp.Net\SaleStream\src\Services\OrderService\OrderService.Application\obj\Debug\net5.0\refint\OrderService.Application.dll
+C:\Projeler\Asp.Net\SaleStream\src\Services\OrderService\OrderService.Application\obj\Debug\net5.0\OrderService.Application.pdb
+C:\Projeler\Asp.Net\SaleStream\src\Services\OrderService\OrderService.Application\obj\Debug\net5.0\ref\OrderService.Application.dll

@@ -1,0 +1,15 @@
+C:\Projeler\Asp.Net\SaleStream\src\Services\NotificationService\NotificationService\bin\Debug\net5.0\NotificationService.exe
+C:\Projeler\Asp.Net\SaleStream\src\Services\NotificationService\NotificationService\bin\Debug\net5.0\NotificationService.deps.json
+C:\Projeler\Asp.Net\SaleStream\src\Services\NotificationService\NotificationService\bin\Debug\net5.0\NotificationService.runtimeconfig.json
+C:\Projeler\Asp.Net\SaleStream\src\Services\NotificationService\NotificationService\bin\Debug\net5.0\NotificationService.runtimeconfig.dev.json
+C:\Projeler\Asp.Net\SaleStream\src\Services\NotificationService\NotificationService\bin\Debug\net5.0\NotificationService.dll
+C:\Projeler\Asp.Net\SaleStream\src\Services\NotificationService\NotificationService\bin\Debug\net5.0\NotificationService.pdb
+C:\Projeler\Asp.Net\SaleStream\src\Services\NotificationService\NotificationService\obj\Debug\net5.0\NotificationService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projeler\Asp.Net\SaleStream\src\Services\NotificationService\NotificationService\obj\Debug\net5.0\NotificationService.AssemblyInfoInputs.cache
+C:\Projeler\Asp.Net\SaleStream\src\Services\NotificationService\NotificationService\obj\Debug\net5.0\NotificationService.AssemblyInfo.cs
+C:\Projeler\Asp.Net\SaleStream\src\Services\NotificationService\NotificationService\obj\Debug\net5.0\NotificationService.csproj.CoreCompileInputs.cache
+C:\Projeler\Asp.Net\SaleStream\src\Services\NotificationService\NotificationService\obj\Debug\net5.0\NotificationService.dll
+C:\Projeler\Asp.Net\SaleStream\src\Services\NotificationService\NotificationService\obj\Debug\net5.0\refint\NotificationService.dll
+C:\Projeler\Asp.Net\SaleStream\src\Services\NotificationService\NotificationService\obj\Debug\net5.0\NotificationService.pdb
+C:\Projeler\Asp.Net\SaleStream\src\Services\NotificationService\NotificationService\obj\Debug\net5.0\NotificationService.genruntimeconfig.cache
+C:\Projeler\Asp.Net\SaleStream\src\Services\NotificationService\NotificationService\obj\Debug\net5.0\ref\NotificationService.dll
